@@ -76,13 +76,18 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## Output screen shots of proteus  :
+### LED OFF:
+<img width="557" height="712" alt="exp3_pmc_ledoff" src="https://github.com/user-attachments/assets/23e258ee-9f95-4ff2-9f4d-153f33f0b856" />
 
 
+### LED ON:
+ <img width="642" height="722" alt="exp3_pmc" src="https://github.com/user-attachments/assets/d540035f-27ac-4082-b683-33f2c2918c5e" />
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
- 
+<img width="785" height="808" alt="image" src="https://github.com/user-attachments/assets/91ed95ef-1709-4faf-888e-6ea100de8a69" />
+
+
  
  
 ## Result :
